@@ -1,0 +1,10 @@
+{
+  "model": {
+    "backend": "huggingface",
+    "model": "meta-llama/Meta-Llama-3.1-405B-Instruct",
+    "max_tokens": 200,
+    "temperature": 0.8,
+    "top_p": 0.95
+  },
+  "memory_depth": 5
+}
