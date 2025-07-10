@@ -1,0 +1,9 @@
+universal-agi/
+├── app.py
+├── config.json
+├── templates/
+│   └── index.html
+├── requirements.txt
+├── Dockerfile
+├── README.md
+└── LICENSE  # Add standard MIT file
