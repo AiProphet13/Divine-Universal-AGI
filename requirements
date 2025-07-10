@@ -1,0 +1,8 @@
+requirements
+
+flask
+flask-session
+transformers
+torch
+numpy
+networkx
